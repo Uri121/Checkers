@@ -1,0 +1,53 @@
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csprojResolveAssemblyReference.cache
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18_Ex05_AmitEdri_315793794_UriRobinov_310471362.FormBoard.resources
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18_Ex05_AmitEdri_315793794_UriRobinov_310471362.FormGameSettings.resources
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.GenerateResource.cache
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.exe
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.pdb
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\CheckersLogic.dll
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\System.dll
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\CheckersLogic.pdb
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.CopyComplete
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.exe
+C:\Users\robin\source\repos\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.pdb
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.exe
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.pdb
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\CheckersLogic.dll
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\System.dll
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\CheckersLogic.pdb
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csprojResolveAssemblyReference.cache
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18_Ex05_AmitEdri_315793794_UriRobinov_310471362.FormBoard.resources
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18_Ex05_AmitEdri_315793794_UriRobinov_310471362.FormGameSettings.resources
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.GenerateResource.cache
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.CopyComplete
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.exe
+C:\Users\robin\Desktop\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.pdb
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.exe
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.pdb
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\CheckersLogic.dll
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\System.dll
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\CheckersLogic.pdb
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csprojResolveAssemblyReference.cache
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18_Ex05_AmitEdri_315793794_UriRobinov_310471362.FormBoard.resources
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18_Ex05_AmitEdri_315793794_UriRobinov_310471362.FormGameSettings.resources
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.GenerateResource.cache
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.CopyComplete
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.exe
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.pdb
+C:\Users\robin\Desktop\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18_Ex05_AmitEdri_315793794_UriRobinov_310471362.Properties.Resources.resources
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.exe
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.pdb
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\CheckersLogic.dll
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\bin\Debug\CheckersLogic.pdb
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csprojResolveAssemblyReference.cache
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18_Ex05_AmitEdri_315793794_UriRobinov_310471362.FormBoard.resources
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18_Ex05_AmitEdri_315793794_UriRobinov_310471362.FormGameSettings.resources
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18_Ex05_AmitEdri_315793794_UriRobinov_310471362.Properties.Resources.resources
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.GenerateResource.cache
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.csproj.CopyComplete
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.exe
+C:\Users\robin\Desktop\שנה 2 סמסטר ב\c# עבודות להגשה\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362\obj\Debug\B18 Ex05 AmitEdri 315793794 UriRobinov 310471362.pdb
